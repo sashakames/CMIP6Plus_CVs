@@ -3908,12 +3908,12 @@
             "r[[:digit:]]\\{1,\\}i[[:digit:]]\\{1,\\}p[[:digit:]]\\{1,\\}f[[:digit:]]\\{1,\\}$"
         ],
         "version_metadata": {
-            "file_updated": "Wed Mar 18 2026 15:18 UTC",
+            "file_updated": "Wed Jun 17 2026 19:00 UTC",
             "checksum": "",
             "CVs": {
-                "updated": "2026-03-18T15:17:56Z",
-                "tag": "v6.5.10.2",
-                "commit": "ce4d6fc360aef6d184e53f87a3a2180d64ea00ba"
+                "updated": "2026-03-18T15:18:09Z",
+                "tag": "null",
+                "commit": "c3b18c69a92a53acafbd152fabac168077b95bd6"
             },
             "MIP tables": {
                 "updated": "2026-03-03T15:14:57Z",
